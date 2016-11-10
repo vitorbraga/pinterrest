@@ -1,5 +1,10 @@
 # README #
 
-Android project. MindValley quest.
-This repository contains a library which handles image loading from URL, and cache usage to save and access these images.
-It contains a simple application which uses this library too.
+Android project.
+This repository contains a library which handles image loading from URL to an ImageView. This process uses LruCache mechanism.
+To use this lib, this repo also contains a simple application loading some images.
+
+- LruCache
+- GridView
+- Retrofit
+- SwipeRefresh
